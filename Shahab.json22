@@ -122,8 +122,8 @@
         "2606:4700:110:81f9:9192:2517:39b:b64d/128"
       ],
       "private_key": "gC8ECxeZAFlKkFlgVRz8bR9eaHunPJJVqwKufbFcKXw=",
-      "server": "2606:4700:d1::754a:559d:b088:d953",
-      "server_port": 864,
+      "server": "2a02:4540:a5:413d:1cee:bf27:75d5",
+      "server_port": 862,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "2Q6c",
       "mtu": 1330,
